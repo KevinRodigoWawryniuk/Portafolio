@@ -1,0 +1,19 @@
+.bodys {
+    min-height: 320px;
+    height:100dvh;
+    margin:0;
+    background: linear-gradient(to top, #1f1f1f 6%, #f1f1f1) !important;
+    color: #fff;
+    font-family: 'Cinzel', serif;
+}
+
+#app {
+    min-width: 320px;
+    width: 100%;
+    padding: 0 .5rem;
+    margin: 0;
+    display: flex;
+    color: #fff;
+    font-family: 'Cinzel', serif;
+    box-sizing: border-box;
+}
