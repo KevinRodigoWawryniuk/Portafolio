@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "7u0cpRC9",
+  "version": "Y6pucpZa",
   "assets": [
     {
       "hash": "sha256-Ri85d4Fi+SYO+fqPSnEe6MykX8h2Is4q2DCFurI7jFk=",
@@ -10,8 +10,8 @@ self.assetsManifest = {
       "url": "Mi_Portafolio.styles.css"
     },
     {
-      "hash": "sha256-F//Va0B089VMaguACoEKYRLT2sGPtu78prn2Qa89J7M=",
-      "url": "_framework/Mi_Portafolio.zxpfmaxi3a.wasm"
+      "hash": "sha256-1prp2bW/fI73i7r9OdPz6V8Ze2rifg3Em0etLIQG/oM=",
+      "url": "_framework/Mi_Portafolio.efwgdcszda.wasm"
     },
     {
       "hash": "sha256-AhsPA6y53oO0JCdPDygpO/fm+myVb0VZll+zUrSE75k=",
@@ -138,7 +138,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.5gjltihx5v.wasm"
     },
     {
-      "hash": "sha256-w5jSEwhlxNiQSgYM+POMdVgSBDqLTSlwh618QW3N6/k=",
+      "hash": "sha256-D2roU+2iMZj9iYw54Ks9jI2JKJmcqDUtoM8KaLyy+vQ=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -231,19 +231,19 @@ self.assetsManifest = {
     },
     {
       "hash": "sha256-gc35dP65qEqVd7AxnLejfQ7ebFkWtAwqPTqDAu0MePE=",
-      "url": "images/Projectos/En la carretera no/Pantalladejuego.png"
+      "url": "images/Projectos/En_la_carretera_no/Pantalladejuego.png"
     },
     {
       "hash": "sha256-OGldpfDDwBc10SySiNx5032JaFx5IDvx+q+0ekmWIVg=",
-      "url": "images/Projectos/En la carretera no/Pantallainicial.png"
+      "url": "images/Projectos/En_la_carretera_no/Pantallainicial.png"
     },
     {
       "hash": "sha256-lMCNd77bhdx4L3GXnzV88uWfFr7Y+fqGz7XxkP/SSOw=",
-      "url": "images/Projectos/En la carretera no/pantallaDificultad.png"
+      "url": "images/Projectos/En_la_carretera_no/pantallaDificultad.png"
     },
     {
       "hash": "sha256-XbfNbvKNzRj/gq91SOzgjS4OfhdDZXB9aiojJQQt0+A=",
-      "url": "images/Projectos/En la carretera no/pantallajuego2.png"
+      "url": "images/Projectos/En_la_carretera_no/pantallajuego2.png"
     },
     {
       "hash": "sha256-X1Uy06D22sW6A+ntaCGE+FrO8QY1C/7NWUzwBIx1fwQ=",
