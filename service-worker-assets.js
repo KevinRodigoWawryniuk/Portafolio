@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "uTBStS7z",
+  "version": "2Vx4yx6Q",
   "assets": [
     {
       "hash": "sha256-Ri85d4Fi+SYO+fqPSnEe6MykX8h2Is4q2DCFurI7jFk=",
@@ -10,8 +10,8 @@ self.assetsManifest = {
       "url": "Mi_Portafolio.styles.css"
     },
     {
-      "hash": "sha256-Jbv0GHx4ZPN9+NPoLgkgwWdGsaJP5PGqKX5tTjwaEMQ=",
-      "url": "_framework/Mi_Portafolio.dm0g01zegm.wasm"
+      "hash": "sha256-GBuOEAagD4poY2MkEst1vi8z3FFOU6pp9WR2hpUL9Yg=",
+      "url": "_framework/Mi_Portafolio.848k5k0fdi.wasm"
     },
     {
       "hash": "sha256-AhsPA6y53oO0JCdPDygpO/fm+myVb0VZll+zUrSE75k=",
@@ -110,20 +110,20 @@ self.assetsManifest = {
       "url": "_framework/System.Net.Primitives.om9mt4c0ro.wasm"
     },
     {
-      "hash": "sha256-FsMhbWx3LIpQKGX0McOJKnVtb7+zu089UqD+1eAVFoQ=",
-      "url": "_framework/System.Private.CoreLib.qn0vmqjcmd.wasm"
+      "hash": "sha256-zs6XtpK8SioudLX5jFMq3rosbykYeO4JScPqsXJByR4=",
+      "url": "_framework/System.Private.CoreLib.qh5s09c5sf.wasm"
     },
     {
       "hash": "sha256-zKTflPTA4Fltc4PQTI3hk9yoT7mlqdj9ydA9BpuGVpg=",
       "url": "_framework/System.Private.Uri.4mj2duva8u.wasm"
     },
     {
-      "hash": "sha256-9Drn9C2lTlxUc5zFP9QxiouKZw4XVMFDXsTMQDQ0s1g=",
-      "url": "_framework/System.Runtime.8bu64afi3z.wasm"
-    },
-    {
       "hash": "sha256-fcbhHB7hDI448FbXH9oGRMD0YiK7sml91c0Cfomkn6c=",
       "url": "_framework/System.Runtime.InteropServices.JavaScript.lu7n7av6ff.wasm"
+    },
+    {
+      "hash": "sha256-y+ccqziWTzwgCW003ij/Oq4gct3ogOy6w3sVSGb5OtQ=",
+      "url": "_framework/System.Runtime.zebs3znsy3.wasm"
     },
     {
       "hash": "sha256-+y7W1KnwkH6Qwrz33TSxWAn666Cbuzvn6QwDB/OpQgI=",
@@ -138,7 +138,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.5gjltihx5v.wasm"
     },
     {
-      "hash": "sha256-umIgSZ0z8ufSqYcSiTjY5ogZ5JOmpXs8T5f/XduiI6I=",
+      "hash": "sha256-mlXgdQfqQsghOa+LyTixXDv0cBVFm7gcPS/kxvmn6as=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -178,7 +178,7 @@ self.assetsManifest = {
       "url": "css/BurbujasDeVacio.css"
     },
     {
-      "hash": "sha256-yVrrF2BfptaLHnPINniCYla7xak876FL1cMBM/rmJac=",
+      "hash": "sha256-RQ1wDkaxysQxDhEdoSYK6bMa19i5OreLpa5mMNutCRg=",
       "url": "css/Footer.css"
     },
     {
