@@ -2,7 +2,7 @@
     min-height: 320px;
     height:100dvh;
     margin:0;
-    background: linear-gradient(to top, #1f1f1f 6%, #f1f1f1) !important;
+    background: linear-gradient(to top, #1f1f1f , #f1f1f1) !important;
     color: #fff;
     font-family: 'Cinzel', serif;
 }

@@ -5,7 +5,7 @@
     margin: 0;
     position: fixed;
     bottom: 0;
-    right:0;
+    right: 0;
     background: linear-gradient(to right, #1f1f1f, transparent, #1f1f1f);
 }
 
@@ -32,43 +32,57 @@
         opacity: 0;
     }
 }
-/*Esta es una forma si queres controlar todo desde el css*/
-/*.BurbujasDeVacio:nth-child(1) {
-    left: 20%;
-    width: 40px;
-    height: 40px;
-    animation-duration: 5s;
-    animation-delay: 0s;
+
+.containSurf {
+    width: 100%;
+    height: 3em;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: transparent;
+    justify-content: space-between;
+    z-index: 0;
 }
 
-.BurbujasDeVacio:nth-child(2) {
-    left: 40%;
-    width: 25px;
-    height: 25px;
-    animation-duration: 6.5s;
-    animation-delay: 2s;
+.surf {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-image: url("/images/olas suaves_0.png");
+    background-repeat: repeat;
+    background-size: cover;
+    animation: borderSurf 20s linear infinite;
+    opacity: .6;
 }
 
-.BurbujasDeVacio:nth-child(3) {
-    left: 60%;
-    width: 30px;
-    height: 30px;
-    animation-duration: 7s;
-    animation-delay: 1s;
+.surfsecond {
+    width: 100%;
+    height: 100%;
+    background-image: url("/images/olas suaves_0.png");
+    background-repeat: repeat;
+    background-size: cover;
+    animation: borderSurfsecond 20s linear infinite;
+    opacity: .7;
 }
 
-.BurbujasDeVacio:nth-child(4) {
-    left: 75%;
-    width: 50px;
-    height: 50px;
-    animation-duration: 8s;
-    animation-delay: 3s;
+@keyframes borderSurf {
+    0% {
+        background-position-x: 0;
+    }
+
+    100% {
+        background-position-x: 1000px;
+    }
 }
 
-.BurbujasDeVacio:nth-child(5) {
-    left: 10%;
-    width: 20px;
-    height: 20px;
-    animation-duration: 4.5s;
-    animation-delay: 1.5s;
-}*/
+@keyframes borderSurfsecond {
+    0% {
+        background-position-x: 0;
+    }
+
+    100% {
+        background-position-x: -1000px;
+    }
+}

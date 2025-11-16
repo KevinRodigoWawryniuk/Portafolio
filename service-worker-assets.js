@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "3lLPYM4y",
+  "version": "uTBStS7z",
   "assets": [
     {
       "hash": "sha256-Ri85d4Fi+SYO+fqPSnEe6MykX8h2Is4q2DCFurI7jFk=",
@@ -10,8 +10,8 @@ self.assetsManifest = {
       "url": "Mi_Portafolio.styles.css"
     },
     {
-      "hash": "sha256-LNb098ZS81/NNlZUZLaAFFJD+DPAhNXlWVPLoffolOw=",
-      "url": "_framework/Mi_Portafolio.4k0o5j8xtt.wasm"
+      "hash": "sha256-Jbv0GHx4ZPN9+NPoLgkgwWdGsaJP5PGqKX5tTjwaEMQ=",
+      "url": "_framework/Mi_Portafolio.dm0g01zegm.wasm"
     },
     {
       "hash": "sha256-AhsPA6y53oO0JCdPDygpO/fm+myVb0VZll+zUrSE75k=",
@@ -138,7 +138,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.5gjltihx5v.wasm"
     },
     {
-      "hash": "sha256-sXFT6lArg0DEeo64cuVEMt/xWBOw3Tx7tXSfJJnGhtg=",
+      "hash": "sha256-umIgSZ0z8ufSqYcSiTjY5ogZ5JOmpXs8T5f/XduiI6I=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -174,23 +174,23 @@ self.assetsManifest = {
       "url": "_framework/icudt_no_CJK.lfu7j35m59.dat"
     },
     {
-      "hash": "sha256-s8s8z6r2g3xgl1b5k4zosbcBB9l04J5nhGLl+wDRuuw=",
+      "hash": "sha256-SIOo/lh4/wMPW4jYbfV2OLSwnd6kb4xZaMihCrWoKzI=",
       "url": "css/BurbujasDeVacio.css"
     },
     {
-      "hash": "sha256-/ioJH59sgxoJw5ugdeTTx9UflcEf3DSjT3jN9ciOCos=",
+      "hash": "sha256-yVrrF2BfptaLHnPINniCYla7xak876FL1cMBM/rmJac=",
       "url": "css/Footer.css"
     },
     {
-      "hash": "sha256-7TCWXMYPxeXEa0ATcJAwcMHVBo1JCzuKmnnVkAkrXmY=",
+      "hash": "sha256-Snl8Y1nPwXgrZOKth7jyiU3Uo/cjMbu+KBii0EyiDGE=",
       "url": "css/Header.css"
     },
     {
-      "hash": "sha256-6OvrEEAItdZd8UhMiM9cgRqxKxxYGRtQyeh0nz6OxH8=",
+      "hash": "sha256-4IF1pQ6MampoNjGVUWo2+g/Uu/Q7e797nSuER7NrNlU=",
       "url": "css/Main.css"
     },
     {
-      "hash": "sha256-B1L3tCYs+8Xx79qfG1IJ5lehNbNdTrcstPCrx+UmPVQ=",
+      "hash": "sha256-Zp6m8hCoJjjFnBtOiLgSpQg/ly/VSJv8lwhveRnHz4g=",
       "url": "css/app.css"
     },
     {
@@ -198,7 +198,7 @@ self.assetsManifest = {
       "url": "favicon.png"
     },
     {
-      "hash": "sha256-SCcu9KW+LwoWVdvRL0E6uOddFyuWUxvfNh2MZh2AxY0=",
+      "hash": "sha256-rSlJtuqOLZpUmBOSyv3WVsEWTdSt4j6R1IFjrzAnvtQ=",
       "url": "hollow_portfolio.svg"
     },
     {
@@ -268,6 +268,14 @@ self.assetsManifest = {
     {
       "hash": "sha256-qmQcjVMyESqbQipP3+HC90INgNXrUbZLJw+t5QRsfyo=",
       "url": "images/arrow-prev-svgrepo-com.svg"
+    },
+    {
+      "hash": "sha256-zNmlOMKmJ1R9r0BUpco+ifbo62/j3ToZ8GPHqDPacC0=",
+      "url": "images/olas suaves_0.png"
+    },
+    {
+      "hash": "sha256-veITgZ/EYQ2QxKzS/r12BvdvckOOxKT0WR1CNLFwOBA=",
+      "url": "images/olas suaves_2.png"
     },
     {
       "hash": "sha256-tLtDlnsYRdaTo1XasLahW90GSAN2+mwHGHdewPsSe48=",

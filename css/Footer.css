@@ -19,6 +19,7 @@
 .ListaE {
     width: 3em;
     height: 3em;
+    filter: drop-shadow(0 0 20px #111) drop-shadow(0 0 30px #111);
 }
 
     .ListaE:hover {

@@ -19,7 +19,7 @@
     border: 0;
     height: 2px;
     background: linear-gradient(to right, #101010, #f1f1f1, #101010);
-    margin: 10rem 0;
+    margin: 5rem 0;
     border-radius: 2px;
 }
 
@@ -36,7 +36,7 @@
 .UnPocoDeMi {
     width: 100%;
     margin: 0;
-    margin-top: 10rem;
+    margin-top: 5rem;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -56,7 +56,7 @@
     .GrillaDePresentacion::before {
         content: "";
         position: absolute;
-        top: 40%;
+        top: 25%;
         bottom: 0;
         left: 50%;
         width: 2px;
@@ -88,27 +88,28 @@
 }
 
 .GrilladeTecnologiasyHerramientas {
-    width: 50%;
+    width: 80%;
+    margin: auto;
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(95px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
     gap: 1rem;
     margin: 0;
 }
 
 .HerramientasyTecnologiasImagenes {
-    width: 80%;
+    width: 90%;
     margin: auto;
-    padding:0;
-    image-rendering:optimizeQuality;
+    padding: .5rem;
+    image-rendering: optimizeQuality;
     transition: all .3s linear;
+    filter: drop-shadow(0 0 20px #111) drop-shadow(0 0 30px #111);
 }
 
     .HerramientasyTecnologiasImagenes:hover {
         width: 100%;
-        padding:.5rem;
-        background:#fffa;
-        box-shadow: 2px 2px 0px #fff, -2px -2px 0px #fff;
-        border-radius:20px;
+        padding: .5rem;
+        filter: drop-shadow(0 0 20px #fff) drop-shadow(0 0 30px #fff);
+        border-radius: 20px;
         transition: all .3s linear;
     }
 
@@ -118,6 +119,7 @@
     margin: 0;
     flex-direction: column;
     align-items: center;
+    box-sizing:border-box;
 }
 
 .SeparadorDeProjectos {
@@ -131,11 +133,13 @@
 
 .projectos {
     width: 100%;
-    margin: 0;
+    margin: auto;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(650px, 1fr));
     gap: 2rem;
     transition: width .3s linear;
+    justify-items:center;
+    box-sizing: border-box;
 }
 
     .projectos:hover {
@@ -144,14 +148,13 @@
         border-right: 2px solid #fff;
         border-radius: 20px;
         transition: width .3s linear;
-        .TitulosdeProjectos,.DecripcionDelProjecto
+    }
 
-{
+.TitulosdeProjectos, .DecripcionDelProjecto {
     font-size: x-large;
     transition: font-size .3s linear;
 }
 
-}
 
 .TituloyDescripcionDelProjecto {
     width: 100%;
@@ -222,4 +225,34 @@
 }
 
 @media (max-width: 930px) {
+    .GrilladeTecnologiasyHerramientas {
+        grid-template-columns: repeat(auto-fill,minmax(90px, 1fr));
+    }
+
+    .GrillaDePresentacion::before {
+        content: "";
+        display: none;
+        position: absolute;
+        top: 25%;
+        bottom: 0;
+        left: 50%;
+        width: 2px;
+        height: 60%;
+        background: linear-gradient(to bottom, #f1f1f1, #101010, #f1f1f1);
+    }
+}
+
+@media (max-width: 650px) {
+    .SeparadorDeSecciones{
+        margin-top:10rem;
+    }
+    .GrillaDePresentacion {
+        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    }
+    .GrillaDePresentacion {
+        grid-template-columns: repeat(auto-fill,minmax(300px, 1fr));
+    }
+    .projectos {
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    }  
 }

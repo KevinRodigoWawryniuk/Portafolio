@@ -11,8 +11,8 @@
     align-items: center;
     color: #fff;
     z-index: 2;
-    border-end-end-radius: 50em;
-    border-end-start-radius: 50em;
+    border-end-end-radius: 100%;
+    border-end-start-radius: 100%;
     box-shadow: 1px 1px 10px #fff, 2px 2px 20px #fff;
     transition: opacity .5s linear;
     box-sizing: border-box;
@@ -30,7 +30,7 @@
 
 .Titulo {
     width: 100%;
-    margin: .5rem 0;
+    margin: .1rem 0;
     text-align: center;
     text-shadow: 2px 2px 0px #000, -2px -2px 0px #000, 2px -2px 0px #000, -2px 2px 0px #000;
     text-decoration: underline;
@@ -38,7 +38,7 @@
 
 .SubTitulo {
     width: 100%;
-    margin: .5rem 0;
+    margin: .1rem 0;
     text-align: center;
     text-shadow: 2px 2px 0px #000, -2px -2px 0px #000, 2px -2px 0px #000, -2px 2px 0px #000;
     text-decoration: underline;
@@ -51,7 +51,7 @@
 
 .ListaDeNavegacion {
     width: 100%;
-    margin: .5rem 0;
+    margin: .1rem 0;
     padding: 0;
     list-style: none;
     display: flex;
@@ -76,3 +76,17 @@
         color: #f1f1f1;
         transition: font-size .3s linear;
     }
+
+@media (max-width: 650px) {
+    .header {
+        border-radius: 0;
+    }
+
+    .ScrollEnlace {
+        font-size: small;
+    }
+
+        .ScrollEnlace:hover {
+            font-size: large;
+        }
+}
