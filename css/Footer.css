@@ -31,10 +31,10 @@
     height: 100%;
     display: inline-block;
     background: #f1f1f1;
-    mask-image: url("images/Logo.svg");
+    mask-image: url("/images/Logo.svg");
     mask-position: center;
     mask-size: contain;
     mask-repeat: no-repeat;
-    -webkit-mask-image: url("images/Logo.svg");
+    -webkit-mask-image: url("/images/Logo.svg");
     -webkit-mask-repeat: no-repeat;
 }
