@@ -50,7 +50,7 @@
     width: 100%;
     height: 100%;
     position: absolute;
-    background-image: url("/images/olas suaves_0.png");
+    background-image: url("https://github.com/KevinRodigoWawryniuk/Portafolio/images/olas suaves_0.png");
     background-repeat: repeat;
     background-size: cover;
     animation: borderSurf 20s linear infinite;
@@ -60,7 +60,7 @@
 .surfsecond {
     width: 100%;
     height: 100%;
-    background-image: url("/images/olas suaves_0.png");
+    background-image: url("https://github.com/KevinRodigoWawryniuk/Portafolio/images/olas suaves_0.png");
     background-repeat: repeat;
     background-size: cover;
     animation: borderSurfsecond 20s linear infinite;
