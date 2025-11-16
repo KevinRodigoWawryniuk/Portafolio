@@ -50,7 +50,11 @@
     width: 100%;
     height: 100%;
     position: absolute;
+<<<<<<< HEAD
     background-image: url("https://kevinrodigowawryniuk.github.io/Portafolio//images/olas_suaves_0.png");
+=======
+    background-image: url("https://kevinrodigowawryniuk.github.io/Portafolio/images/olas_suaves_0.png");
+>>>>>>> 6d0870fe50cc6bf138f4687eb464df4b2ef968ec
     background-repeat: repeat;
     background-size: cover;
     animation: borderSurf 20s linear infinite;
@@ -60,7 +64,11 @@
 .surfsecond {
     width: 100%;
     height: 100%;
+<<<<<<< HEAD
     background-image: url("https://kevinrodigowawryniuk.github.io/Portafolio//images/olas_suaves_0.png");
+=======
+    background-image: url("https://kevinrodigowawryniuk.github.io/Portafolio/images/olas_suaves_0.png");
+>>>>>>> 6d0870fe50cc6bf138f4687eb464df4b2ef968ec
     background-repeat: repeat;
     background-size: cover;
     animation: borderSurfsecond 20s linear infinite;

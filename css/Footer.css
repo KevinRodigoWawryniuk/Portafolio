@@ -31,10 +31,18 @@
     height: 100%;
     display: inline-block;
     background: #f1f1f1;
+<<<<<<< HEAD
     mask-image: url("https://kevinrodigowawryniuk.github.io/Portafolio//images/Logo.svg");
     mask-position: center;
     mask-size: contain;
     mask-repeat: no-repeat;
     -webkit-mask-image: url("https://kevinrodigowawryniuk.github.io/Portafolio//images/Logo.svg");
+=======
+    mask-image: url("https://kevinrodigowawryniuk.github.io/Portafolio/images/Logo.svg");
+    mask-position: center;
+    mask-size: contain;
+    mask-repeat: no-repeat;
+    -webkit-mask-image: url("https://kevinrodigowawryniuk.github.io/Portafolio/images/Logo.svg");
+>>>>>>> 6d0870fe50cc6bf138f4687eb464df4b2ef968ec
     -webkit-mask-repeat: no-repeat;
 }
